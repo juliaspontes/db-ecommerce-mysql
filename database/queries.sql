@@ -1,8 +1,3 @@
-/*
-Business Queries for E-commerce Database
-Author: Julia Pontes
-*/
-
 -- Ranking de produtos mais vendidos
 SELECT 
     pr.nome,
